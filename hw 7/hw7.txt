@@ -1,0 +1,26 @@
+1. bootstrap ?
+Bootstrap is a free and open-source front-end web framework for designing websites and web applications.
+It also supports responsive web design. It has great grid system. This means the layout of web pages adjusts dynamically, taking into account the characteristics of the device used (desktop, tablet, mobile phone).
+Bootstrap contains 3 main files 
+-bootstrap.css (CSS framework)
+-bootstrap.js (Js framework)
+-glyphicons  (icon font set)
+
+2.Bootstrap grid system 
+Bootstrap's grid system allows up to 12 columns across the page.
+Bootstraps grid system is responsive, and the columns rearrange depending on screen size.
+We can group the coloums to create wider columns.
+
+3.xs, sm, lg, md ?
+These are the classes of bootstrap grid system 
+xs - used for phones (<768px)
+sm - used for tablets (>=768px)
+md - for desktops     (>=992px)
+lg - for larger desktops  (>=1200px)
+
+4.bootstrap inputs, forms ?
+Inputs : Bootstrap supports all the HTML5 input types. Inputs should be properly declared to get their style.
+
+Forms : 3 types of form layouts 
+-vertical(default), horizontal(.form-horizontal), inline(.form-inline)
+
