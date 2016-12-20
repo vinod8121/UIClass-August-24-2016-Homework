@@ -1,0 +1,43 @@
+Homework - 8
+
+1. Why do we use javascript 
+JS is used to make dynamic webpages.It interacts with HTML when used in a browser.It can make things happen at the client side without sending messages to the server.
+
+2.Dom manipulation
+It is an interface that will allow programs and scripts to dynamically access and update the content, style of documents.
+Accessing by id element=document.getElementById(Id)
+Accessing by class names elements=document.getElementsByClassName(name)
+
+
+3.events in a webpage
+Js lets you execute code when events are detected.
+-onclick
+-onmouseover
+-onmouseout
+-onload
+
+4.JS datatypes
+There are five primitive data types
+-string
+-number
+-boolean
+-undefined
+-null
+one complex datatype -object
+
+
+5.JS loops
+-for loop(st1;st2;st3){
+	code---
+}
+
+while loop
+-while(condition){
+	code---
+}
+
+-do while loop
+-do{
+	code---
+}
+while(condition);
