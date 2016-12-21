@@ -1,0 +1,28 @@
+1.SASS ?
+It is a css preprocessor.
+More work with less code and is more stable.
+No of frameworks are built with sass.
+Variables are created to store the information so that they can be used throughout the stylesheet.($ declaration)
+Nesting is acheived with sass.
+Two syntaxes 1-.scss  2-.sass
+
+2.Advantages of sass ?
+With less code more work is done.
+Variables are declared and used to store information.
+we can inherit the properties (extends)
+nesting
+mixins
+
+3.SASS vs LESS vs STYLUS
+SASS
+-variables in sass start with $
+-.sass extension
+-nesting is allowed
+LESS
+-variables in sass start with @
+-.less extension
+-nesting is allowed
+STYLUS
+-no prefix
+-.styl extension
+-nesting is allowed
