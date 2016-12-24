@@ -1,0 +1,37 @@
+1,Operator precedence ?
+Operator precedence determines the order in which operators are evaluated. Operators with higher precedence are evaluated first.
+
+2.diff b/w == and ===
+x==y(equal) compares if the two values are equal
+x===y(Strict equal) compares the two values and the type of the variables.
+x!=y(unequal) both values are different
+x!==y(strict uneual) both are different with different datatypes.
+
+3.null and undefined ?
+NULL is a special value meaning "no value". null is a special object because typeof null returns 'object'. 
+
+Undefined means that the variable has not been declared, or has not been given a value.
+
+null === undefined           // false
+null == undefined            // true
+
+
+4.for , while , do-while ?
+for - loops through a block of code a number of times
+
+for (statement 1; statement 2; statement 3) {
+    code block to be executed
+}
+
+while - loops through a block of code while a specified condition is true
+
+while (condition) {
+    code block to be executed
+}
+
+do/while - loops through a block of code while a specified condition is true
+
+do {
+    code block to be executed
+}
+while (condition);
