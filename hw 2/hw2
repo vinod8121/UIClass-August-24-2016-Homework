@@ -1,0 +1,42 @@
+1.Semantic elements ?
+Semantic elements = elements with a meaning.
+
+Examples:
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+
+2.Advantages of semantic elements ?
+-Ease of use
+-Accessibility
+-Search Engine Optimisation
+-Repurposing
+
+
+3.Article :An article should make sense on its own, and it should be possible to read it independently from the rest of the web site.
+
+-Aside :The <aside> element defines some content aside from the content it is placed in
+
+-footer : A footer typically contains the author of the document, copyright information, links to terms of use, contact information, etc.
+
+-header: he <header> element specifies a header for a document or section.
+
+-nav : The <nav> element defines a set of navigation links.
+
+-figcaption : The purpose of a figure caption is to add a visual explanation to an image.
+
+-mark:	Defines marked/highlighted text
+
+-summary:	Defines a visible heading for a <details> element
+
+-time:Defines a date/time
