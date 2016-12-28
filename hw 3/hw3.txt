@@ -1,0 +1,48 @@
+Selectors :
+
+1.class
+class selector can be selected by using (.) character
+
+2.id
+id selector can be selected by using (#) character
+
+3.*
+selects all elements
+
+4.element selector
+selects all the elements with specified element name.
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.class1 {
+    background-color: yellow;
+}
+#id1 {
+    background-color: green;
+}
+* {
+    font-style: italic;
+    }
+span{
+	background-color: red;
+}    
+</style>
+</head>
+<body>
+
+<h1>Welcome to My Homepage</h1>
+
+<div class="class1">
+  <h1>How are you ?</h1>
+  <p>Merry Christmas</p>
+</div>
+
+<p id="id1">This para has id selector</p>
+
+<span>Element selector</span>
+
+</body>
+</html>
